@@ -1,55 +1,56 @@
 ---
-title: "关于我"
-date: 2024-03-23
-draft: false
+title: "About Me"
+url: "/about"
+layout: "about"
+description: "About Raiso Liu"
 ---
 
-## 教育背景
+## Education
 
-### 国立成功大学，台南，台湾
-- **机械工程硕士** (2020 - 2022)
-  - GPA: 4.06/4.3, 32学分
-  - 论文：高密度单通道到多微电极阵列的神经解码器设计
-  - 指导教授：杨世宏教授
-  - 相关课程：临床与实验神经科学、临床研究数据分析与软件实践、生物医学信号处理、从神经元到大脑的电生理学
+### National Cheng Kung University, Tainan, Taiwan
+- **MS in Mechanical Engineering** (2020 - 2022)
+  - GPA: 4.06/4.3, 32 credits
+  - Thesis: Neural Decoder Design for High-Density Single-Channel-to-Multi-Micro-electrode Arrays
+  - Advisor: Prof. Shih-Hung Yang
+  - Relevant Course: Clinical and Experimental Neuroscience, Data analysis and software practice for clinical research, Biomedical signal processing, Electrophysiology From Neuron to Brain
 
-### 国立成功大学，台南，台湾
-- **机械工程学士** (2016 - 2020)
+### National Cheng Kung University, Tainan, Taiwan
+- **BS in Mechanical Engineering** (2016 - 2020)
 
-## 工作经历
+## Experience
 
-### 中央研究院分子生物研究所 - 吴育伟博士实验室
-- **研究助理** (2023年1月 - 至今)
-  - 使用对比学习工具(CEBRA)观察神经活动与行为之间的关系
-  - 通过计算机视觉直接分析视觉特征来提取行为数据，不依赖点坐标
+### Research: Dr. Yu-Wei Wu's Lab, Institute of Molecular Biology, Academia Sinica
+- **Research Assistant** (Jan 2023 - Present)
+  - Using contrastive learning tool (CEBRA) observes the relationship between neural activity and behavior
+  - Extracting behavioral data from videos by directly analyzing visual features with computer vision, without relying on point coordinates
 
-### 国立成功大学 - 进阶竞争程式设计课程
-- **教学助理** (2019 - 2022)
-  - 开发开放课程和在线教材
-  - 组织每周竞赛，帮助学生评估和认识他们在速度和质量方面的问题解决能力
-  - 获得数百名学生的好评，成为多个实验室推荐给研究生的课程
+### Teaching: Advanced Competitive Programming, National Cheng Kung University
+- **Teaching Assistant** (2019 - 2022)
+  - Developed open courses and online textbooks
+  - Organized weekly competitions to help students assess and realize their problem-solving capabilities in terms of speed and quality
+  - Highly favored by hundreds of students, it has become a course recommended for graduate students by many laboratories
 
-### 华硕基金会与国立成功大学 - Team PassByValue
-- **教学助理** (2017年7月)
-  - 教导数十名原住民儿童使用计算机
+### Volunteers: Team PassByValue, ASUS Foundation & National Cheng Kung University
+- **Teaching Assistant** (Jul, 2017)
+  - Taught dozens of aboriginal children to use computers
 
-## 荣誉与奖项
+## Honors & Awards
 
-- Google's Coding Competitions Round G 2022 Kick Start，全球第93名，台湾第一
-- 国际大学生程序设计竞赛
-  - 2020年亚洲台北-新竹区域赛铜牌
-  - 2019年中国南昌全国邀请赛铜牌
+- Kick Start - Google's Coding Competitions Round G 2022, 93rd in the world, first in Taiwan
+- International Collegiate Programming Contest
+  - Asia Taipei-Hsinchu Regional Programming Contest, Bronze (2020)
+  - China Nanchang National Invitational Programming Contest, Bronze (2019)
 
-## 主要研究方向
+## Major Research Interests
 
-### 脑机接口(BCI)技术的理论和模型基础
-- 基于对神经信号处理机制的理解，开发理论模型和计算框架
-- 旨在创建能够更自然地与生物神经系统交互的BCI系统
+### Theoretical and Model Foundations for Brain-Computer Interface (BCI) Technology
+- Develop theoretical models and computational frameworks based on an understanding of neural signal processing mechanisms
+- Aim to create BCI systems that interact more naturally with the biological nervous system
 
-### 多模态神经数据集成与分析
-- 设计适应不同模态行为信号的信号处理流程和潜在编码器
-- 使用对比学习整合神经信号，揭示大脑与行为之间的关系
+### Multimodal Neural Data Integration and Analysis
+- Design signal processing pipelines and latent encoders that adapt to behavioral signals from different modalities
+- Use contrastive learning to integrate neural signals and uncover the relationship between the brain and behavior
 
-### 探索信息处理：大脑中尖峰时序和尖峰神经网络的作用
-- 深入研究大脑如何通过神经元尖峰时序和尖峰神经网络的协调来处理和解码感觉刺激
-- 特别关注传感器信息的处理 
+### Exploring Information Processing: The Role of Spike Timing and Spiking Neural Networks in the Brain
+- Delve into how the brain processes and decodes sensory stimuli, especially sensor information
+- Focus on the coordination of neuronal Spike Timing and Spike Neural Networks 

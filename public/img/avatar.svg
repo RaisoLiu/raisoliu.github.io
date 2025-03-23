@@ -1,0 +1,33 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 大黑圓背景 -->
+  <circle cx="120" cy="120" r="120" fill="#000000" />
+
+  <!-- 原有的右下角月亮 (旋轉45°) -->
+  <g transform="translate(180,0) scale(-1,1) translate(-180,0)">
+      <g transform="rotate(180,180,180)">
+      <circle cx="180" cy="180" r="24" fill="#f7c445" />
+      <circle cx="175" cy="180" r="24" fill="#000000" />
+      </g>
+  </g>
+
+  <!-- 新增的水平鏡像月亮，先以 x=180 為軸鏡像，再上移 40 單位 -->
+  <g transform="translate(0,-50)">
+    <g transform="translate(180,0) scale(-1,1) translate(-180,0)">
+      <g transform="rotate(0,180,180)">
+      <circle cx="180" cy="180" r="24" fill="#f7c445" />
+      <circle cx="175" cy="180" r="24" fill="#000000" />
+      </g>
+    </g>
+  </g>
+
+  <!-- 清晰的字母 R (最後繪製，位於最上層) -->
+  <path d="M80,50 L80,190
+           M80,50 C120,50 140,80 140,100
+           C140,120 120,150 80,150
+           M80,150 L140,190" 
+        stroke="#FFFFFF" 
+        stroke-width="8" 
+        fill="none" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+</svg>

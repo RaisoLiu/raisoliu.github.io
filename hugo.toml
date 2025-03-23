@@ -13,28 +13,47 @@ buildExpired = false
   title = "Raiso Liu"
   description = "Personal Website"
   keywords = ["Blog", "Portfolio", "Hugo"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  profileMode
-    enabled = true
-    title = "Raiso Liu"
-    subtitle = "Research Assistant at IMB, Academia Sinica"
-    imageUrl = "img/avatar.jpg"
-    imageTitle = "my avatar"
-    buttons = [
-      {
-        name = "GitHub"
-        url = "https://github.com/RaisoLiu"
-      }
-      {
-        name = "Email"
-        url = "mailto:rainsoon717@gmail.com"
-      }
-    ]
+  UseHugoToc = false
+  ShowToc = false
+  ShowPageNumbersInHomePagination = true
+  ShowFullTextinRSS = true
+  ShowFullTextinHome = true
+
+[params.profileMode]
+  enabled = true
+  title = "Raiso Liu"
+  subtitle = "Research Assistant at IMB, Academia Sinica"
+  imageUrl = "img/avatar.svg"
+  imageTitle = "my avatar"
+  buttons = [
+    { name = "GitHub", url = "https://github.com/RaisoLiu" },
+    { name = "Email", url = "mailto:rainsoon717@gmail.com" }
+  ]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -100
+    pre = "home"
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = -90
+    pre = "user"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = -80
+    pre = "book"
