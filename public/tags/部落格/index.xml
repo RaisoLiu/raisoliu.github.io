@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>部落格 on Raiso Liu</title>
-    <link>http://localhost:55248/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+    <link>http://localhost:1313/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
     <description>Recent content in 部落格 on Raiso Liu</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55248/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇部落格文章</title>
-      <link>http://localhost:55248/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55248/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;歡迎來到我的部落格&#34;&gt;歡迎來到我的部落格&lt;/h2&gt;
 &lt;p&gt;這是我的第一篇部落格文章。在這裡，我將分享我的研究經歷、技術心得和生活感悟。&lt;/p&gt;
 &lt;h3 id=&#34;關於我&#34;&gt;關於我&lt;/h3&gt;

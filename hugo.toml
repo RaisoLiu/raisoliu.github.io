@@ -47,19 +47,16 @@ buildExpired = false
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "首頁"
+    name = "Home"
     url = "/"
     weight = -100
-    pre = "home"
   [[menu.main]]
     identifier = "about"
-    name = "關於"
-    url = "/about/"
+    name = "About Me"
+    url = "/about"
     weight = -90
-    pre = "user"
   [[menu.main]]
     identifier = "posts"
-    name = "部落格"
-    url = "/posts/"
+    name = "Blog"
+    url = "/posts"
     weight = -80
-    pre = "book"
