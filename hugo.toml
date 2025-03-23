@@ -1,0 +1,40 @@
+baseURL = 'https://raisoliu.github.io/'
+languageCode = 'zh-tw'
+title = 'Raiso Liu'
+theme = 'PaperMod'
+enableEmoji = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "Raiso Liu"
+  description = "Personal Website"
+  keywords = ["Blog", "Portfolio", "Hugo"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  profileMode
+    enabled = true
+    title = "Raiso Liu"
+    subtitle = "Research Assistant at IMB, Academia Sinica"
+    imageUrl = "img/avatar.jpg"
+    imageTitle = "my avatar"
+    buttons = [
+      {
+        name = "GitHub"
+        url = "https://github.com/RaisoLiu"
+      }
+      {
+        name = "Email"
+        url = "mailto:rainsoon717@gmail.com"
+      }
+    ]
