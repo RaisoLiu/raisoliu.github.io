@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Raiso Liu</title>
-    <link>http://localhost:53445/</link>
+    <link>http://localhost:55248/</link>
     <description>Recent content on Raiso Liu</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53445/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55248/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇部落格文章</title>
-      <link>http://localhost:53445/posts/my-first-post/</link>
+      <link>http://localhost:55248/posts/my-first-post/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53445/posts/my-first-post/</guid>
+      <guid>http://localhost:55248/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;歡迎來到我的部落格&#34;&gt;歡迎來到我的部落格&lt;/h2&gt;
 &lt;p&gt;這是我的第一篇部落格文章。在這裡，我將分享我的研究經歷、技術心得和生活感悟。&lt;/p&gt;
 &lt;h3 id=&#34;關於我&#34;&gt;關於我&lt;/h3&gt;
@@ -31,103 +31,6 @@
 &lt;li&gt;生活隨筆&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;敬請期待更多內容！&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="歡迎來到我的部落格">歡迎來到我的部落格</h2>
-<p>這是我的第一篇部落格文章。在這裡，我將分享我的研究經歷、技術心得和生活感悟。</p>
-<h3 id="關於我">關於我</h3>
-<p>我是一名在中央研究院分子生物研究所工作的研究助理，專注於神經科學和腦機介面技術的研究。我的研究興趣包括：</p>
-<ul>
-<li>腦機介面(BCI)技術的理論和模型基礎</li>
-<li>多模態神經數據整合與分析</li>
-<li>神經資訊處理機制研究</li>
-</ul>
-<h3 id="未來計劃">未來計劃</h3>
-<p>在這個部落格中，我計劃分享：</p>
-<ol>
-<li>研究心得和技術筆記</li>
-<li>專案開發經驗</li>
-<li>學習資源推薦</li>
-<li>生活隨筆</li>
-</ol>
-<p>敬請期待更多內容！</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:53445/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53445/about/</guid>
-      <description>About Raiso Liu</description>
-      <content:encoded><![CDATA[<h2 id="education">Education</h2>
-<h3 id="national-cheng-kung-university-tainan-taiwan">National Cheng Kung University, Tainan, Taiwan</h3>
-<ul>
-<li><strong>MS in Mechanical Engineering</strong> (2020 - 2022)
-<ul>
-<li>GPA: 4.06/4.3, 32 credits</li>
-<li>Thesis: Neural Decoder Design for High-Density Single-Channel-to-Multi-Micro-electrode Arrays</li>
-<li>Advisor: Prof. Shih-Hung Yang</li>
-<li>Relevant Course: Clinical and Experimental Neuroscience, Data analysis and software practice for clinical research, Biomedical signal processing, Electrophysiology From Neuron to Brain</li>
-</ul>
-</li>
-</ul>
-<h3 id="national-cheng-kung-university-tainan-taiwan-1">National Cheng Kung University, Tainan, Taiwan</h3>
-<ul>
-<li><strong>BS in Mechanical Engineering</strong> (2016 - 2020)</li>
-</ul>
-<h2 id="experience">Experience</h2>
-<h3 id="research-dr-yu-wei-wus-lab-institute-of-molecular-biology-academia-sinica">Research: Dr. Yu-Wei Wu&rsquo;s Lab, Institute of Molecular Biology, Academia Sinica</h3>
-<ul>
-<li><strong>Research Assistant</strong> (Jan 2023 - Present)
-<ul>
-<li>Using contrastive learning tool (CEBRA) observes the relationship between neural activity and behavior</li>
-<li>Extracting behavioral data from videos by directly analyzing visual features with computer vision, without relying on point coordinates</li>
-</ul>
-</li>
-</ul>
-<h3 id="teaching-advanced-competitive-programming-national-cheng-kung-university">Teaching: Advanced Competitive Programming, National Cheng Kung University</h3>
-<ul>
-<li><strong>Teaching Assistant</strong> (2019 - 2022)
-<ul>
-<li>Developed open courses and online textbooks</li>
-<li>Organized weekly competitions to help students assess and realize their problem-solving capabilities in terms of speed and quality</li>
-<li>Highly favored by hundreds of students, it has become a course recommended for graduate students by many laboratories</li>
-</ul>
-</li>
-</ul>
-<h3 id="volunteers-team-passbyvalue-asus-foundation--national-cheng-kung-university">Volunteers: Team PassByValue, ASUS Foundation &amp; National Cheng Kung University</h3>
-<ul>
-<li><strong>Teaching Assistant</strong> (Jul, 2017)
-<ul>
-<li>Taught dozens of aboriginal children to use computers</li>
-</ul>
-</li>
-</ul>
-<h2 id="honors--awards">Honors &amp; Awards</h2>
-<ul>
-<li>Kick Start - Google&rsquo;s Coding Competitions Round G 2022, 93rd in the world, first in Taiwan</li>
-<li>International Collegiate Programming Contest
-<ul>
-<li>Asia Taipei-Hsinchu Regional Programming Contest, Bronze (2020)</li>
-<li>China Nanchang National Invitational Programming Contest, Bronze (2019)</li>
-</ul>
-</li>
-</ul>
-<h2 id="major-research-interests">Major Research Interests</h2>
-<h3 id="theoretical-and-model-foundations-for-brain-computer-interface-bci-technology">Theoretical and Model Foundations for Brain-Computer Interface (BCI) Technology</h3>
-<ul>
-<li>Develop theoretical models and computational frameworks based on an understanding of neural signal processing mechanisms</li>
-<li>Aim to create BCI systems that interact more naturally with the biological nervous system</li>
-</ul>
-<h3 id="multimodal-neural-data-integration-and-analysis">Multimodal Neural Data Integration and Analysis</h3>
-<ul>
-<li>Design signal processing pipelines and latent encoders that adapt to behavioral signals from different modalities</li>
-<li>Use contrastive learning to integrate neural signals and uncover the relationship between the brain and behavior</li>
-</ul>
-<h3 id="exploring-information-processing-the-role-of-spike-timing-and-spiking-neural-networks-in-the-brain">Exploring Information Processing: The Role of Spike Timing and Spiking Neural Networks in the Brain</h3>
-<ul>
-<li>Delve into how the brain processes and decodes sensory stimuli, especially sensor information</li>
-<li>Focus on the coordination of neuronal Spike Timing and Spike Neural Networks</li>
-</ul>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

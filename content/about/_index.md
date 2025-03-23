@@ -1,8 +1,7 @@
 ---
 title: "About Me"
-url: "/about"
-layout: "about"
-description: "About Raiso Liu"
+layout: "single"
+hidemeta: true
 ---
 
 ## Education

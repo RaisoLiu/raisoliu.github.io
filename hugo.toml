@@ -4,7 +4,7 @@ title = 'Raiso Liu'
 theme = 'PaperMod'
 enableEmoji = true
 enableRobotsTXT = true
-buildDrafts = false
+buildDrafts = true
 buildFuture = false
 buildExpired = false
 
@@ -23,11 +23,13 @@ buildExpired = false
   ShowRssButtonInSectionTermList = true
   UseHugoToc = false
   ShowToc = false
-  ShowPageNumbersInHomePagination = true
-  ShowFullTextinRSS = true
-  ShowFullTextinHome = true
   mainSections = ["posts"]
-  profileMode = { enabled = true }
+
+[params.homeInfoParams]
+  Title = "你好！我是 Raiso Liu"
+  Content = """
+我是一名在中央研究院分子生物研究所工作的研究助理，專注於神經科學和腦機介面技術的研究。
+"""
 
 [params.profileMode]
   enabled = true
