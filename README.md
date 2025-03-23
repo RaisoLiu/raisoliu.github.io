@@ -1,36 +1,36 @@
-# Raiso Liu 的个人网站
+# Raiso Liu 的個人網站
 
-这是我的个人网站，使用 Hugo 构建并部署在 GitHub Pages 上。
+這是我的個人網站原始碼倉庫，使用 Hugo 建置並部署在 GitHub Pages 上。
 
-## 本地开发
+## 本地開發
 
-要本地运行这个网站，你需要：
+要本地運行這個網站，你需要：
 
-1. 安装 Hugo（推荐使用扩展版本）
-2. 克隆这个仓库
-3. 运行以下命令：
+1. 安裝 Hugo（推薦使用擴充版本）
+2. 克隆這個倉庫
+3. 運行以下指令：
 
 ```bash
 git submodule update --init --recursive
 hugo server
 ```
 
-然后在浏览器中访问 `http://localhost:1313` 查看网站。
+然後在瀏覽器中訪問 `http://localhost:1313` 查看網站。
 
-## 构建
+## 建置
 
-要构建网站，运行：
+要建置網站，運行：
 
 ```bash
 hugo --minify
 ```
 
-构建后的文件将在 `public` 目录中。
+建置後的檔案將在 `public` 目錄中。
 
 ## 部署
 
-这个网站使用 GitHub Actions 自动部署到 GitHub Pages。每次推送到 `main` 分支时，网站都会自动更新。
+這個網站使用 GitHub Actions 自動部署到 GitHub Pages。每次推送到 `main` 分支時，網站都會自動更新。
 
-## 许可证
+## 授權條款
 
 MIT License 

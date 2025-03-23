@@ -26,6 +26,8 @@ buildExpired = false
   ShowPageNumbersInHomePagination = true
   ShowFullTextinRSS = true
   ShowFullTextinHome = true
+  mainSections = ["posts"]
+  profileMode = { enabled = true }
 
 [params.profileMode]
   enabled = true
@@ -33,6 +35,8 @@ buildExpired = false
   subtitle = "中央研究院分子生物研究所研究助理"
   imageUrl = "img/avatar.svg"
   imageTitle = "my avatar"
+  imageWidth = 200
+  imageHeight = 200
   buttons = [
     { name = "GitHub", url = "https://github.com/RaisoLiu" },
     { name = "電子郵件", url = "mailto:rainsoon717@gmail.com" }
